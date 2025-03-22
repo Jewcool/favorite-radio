@@ -3,4 +3,4 @@
 ## При вёрстке макета использовал :
 - HTML
 - CSS
-- https://
+- https://jewcool.github.io/favorite-radio/
